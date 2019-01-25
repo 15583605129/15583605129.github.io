@@ -17,9 +17,9 @@ favicon: favicon.png
 
 repository: 15583605129/archives.github.io
 github_url: https://15583605129/archives.github.io
-cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.archives.com
-enforce_ssl: ityouknow.com
+#cnblog_url: http://www.cnblogs.com/ityouknow
+url: https://github.com/15583605129/archives.github.io
+#enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
