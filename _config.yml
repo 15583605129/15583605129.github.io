@@ -16,8 +16,10 @@ encoding: "utf-8"
 favicon: favicon.png 
 
 repository: 15583605129/15583605129.github.io
-github_url:https://github.com/15583605129
+github_url: https://github.com/15583605129
+cnblog_url: http://www.cnblogs.com/ityouknow
 url: https://15583605129.github.io
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
